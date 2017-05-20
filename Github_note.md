@@ -1,4 +1,4 @@
-##GitHub beginner's note --GitHub repo
+### GitHub beginner's note --GitHub repo
 
 * Right click on your local repo and select "git bash"
 * git init (initiate your commit precedure)
